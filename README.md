@@ -1,5 +1,5 @@
-# Limpieza_Datos_BMW
-<h1>Proyecto Limpieza da Datos - Fichero BMW</h1>
+# Master Data Science / Nuclio DS 2023
+<h1>Proyecto Limpieza da Datos - Fichero BMW - Entregagle </h1>
 
 El objetivo es predecir el precio del vehículo, para ello en este primer entregable se necesitará realizar todo el data cleaning y data preprocessing de los datos (ojo que si bien el objetivo es predecir el precio no será necesario hacer la predicción)
 
@@ -29,4 +29,4 @@ Programa (40%)
 
 **Se puede hacer tanto en grupo como individual el trabajo**
 
-Plazo de entrega: 26 de noviembre (no habrá prorroga)
+
